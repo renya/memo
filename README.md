@@ -9,3 +9,7 @@ A collection of working notes.
 - Maps and GeoJSON
 - Local communities
 - Public information
+
+## Contents
+
+- [LG.JP and public domain namespaces](lgjp-proposal.md)
